@@ -39,3 +39,8 @@ var firstName = "John";
 var age = 28;
 //Contactonation and coercion
 console.log(firstName +" "+age);
+
+//Multiple declarations
+var job, isMarried;
+job = "teacher";
+isMarried = false;
