@@ -34,3 +34,8 @@
 /***************************************
 * Variables mutation and type coercion *
 ***************************************/
+
+var firstName = "John";
+var age = 28;
+//Contactonation and coercion
+console.log(firstName +" "+age);
