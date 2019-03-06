@@ -51,4 +51,9 @@ console.log(firstName + ' ' + age +" year old." + " Is he married? " + isMarried
 age = "twenty eight";
 job = "driver";
 
-alert(firstName + ' ' + age +" year old." + " Is he married? " + isMarried)
+//Popup message
+alert(firstName + ' ' + age +" year old." + " Is he married? " + isMarried);
+
+//Popup user input
+var lastName = prompt("What is his last Name?");
+console.log(firstName +" " + lastName);
