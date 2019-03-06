@@ -13,3 +13,6 @@ console.log(fullAge);
 //undefined var
 var job;
 console.log(job);
+//Assigning job a value
+job = "Teacher";
+console.log(job);
