@@ -10,3 +10,6 @@ var age=28;
 
 var fullAge = true;
 console.log(fullAge);
+//undefined var
+var job;
+console.log(job);
