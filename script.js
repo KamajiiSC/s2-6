@@ -46,3 +46,9 @@ job = "teacher";
 isMarried = false;
 
 console.log(firstName + ' ' + age +" year old." + " Is he married? " + isMarried);
+
+//Variable mutation
+age = "twenty eight";
+job = "driver";
+
+alert(firstName + ' ' + age +" year old." + " Is he married? " + isMarried)
