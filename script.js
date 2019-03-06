@@ -16,3 +16,8 @@ console.log(job);
 //Assigning job a value
 job = "Teacher";
 console.log(job);
+//Incorrect variable name
+var 3years = 3;
+var &3years = 3;
+var john/mark = "John and Mark";
+var function= 23;
