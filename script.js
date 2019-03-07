@@ -61,6 +61,7 @@ console.log(firstName +" " + lastName);
 /******************
 * Basic Operators *
 ******************/
+/*
 var now, yearJohn, yearMark, ageJohn, ageMark;
 now = 2018;
 ageJohn = 28;
@@ -87,3 +88,7 @@ console.log(typeof ageJohn);
 console.log(typeof "Mark is older than John");
 var x;
 console.log(typeof x);
+*/
+/**********************
+* Operator precedence *
+**********************/
