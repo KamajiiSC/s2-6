@@ -63,9 +63,16 @@ console.log(firstName +" " + lastName);
 ******************/
 var now, yearJohn, yearMark
 now = 2018;
+
+//Math Operators
 yearJohn = now - 28;
 yearMark = now - 33;
 
 console.log(yearJohn);
 
-console.log(now)
+console.log(now + 2);
+console.log(now - 2);
+console.log(now * 2);
+console.log(now / 10);
+
+//Logical operators
