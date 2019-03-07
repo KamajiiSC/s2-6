@@ -34,7 +34,7 @@
 /***************************************
 * Variables mutation and type coercion *
 ***************************************/
-
+/*
 var firstName = "John";
 var age = 28;
 //Contactonation and coercion
@@ -57,3 +57,11 @@ alert(firstName + ' ' + age +" year old." + " Is he married? " + isMarried);
 //Popup user input
 var lastName = prompt("What is his last Name?");
 console.log(firstName +" " + lastName);
+*/
+/******************
+* Basic Operators *
+******************/
+
+var yearJohn = 2018 - 28;
+
+console.log(yearJohn);
