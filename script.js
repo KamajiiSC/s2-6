@@ -61,9 +61,9 @@ console.log(firstName +" " + lastName);
 /******************
 * Basic Operators *
 ******************/
-
-var year = 2018;
-var yearJohn = year - 28;
-var yearMark = year - 33;
+var year, yearJohn, yearMark
+year = 2018;
+yearJohn = year - 28;
+yearMark = year - 33;
 
 console.log(yearJohn);
