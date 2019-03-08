@@ -92,7 +92,7 @@ console.log(typeof x);
 /**********************
 * Operator precedence *
 **********************/
-
+/*
 var now = 2018;
 var yearJohn = 1989;
 var fullAge = 18;
@@ -122,3 +122,9 @@ console.log(x)
 //x = x - 1;
 x--;
 console.log(x);
+*/
+/***********************
+* If / Else statements *
+***********************/
+let firstName = 'John';
+let civilStatus = 'single';
