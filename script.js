@@ -159,8 +159,27 @@ if (age < 13){
 let firstName = "John"
 let age = 22
 
+// Ternary Operator
 age >= 21 ? console.log(firstName + ' drinks beer.')
 : console.log(firstName + ' drinks juice.');
 
 let drink = age >= 21 ? 'beer' : 'juice';
 console.log(firstName + ' drinks ' + drink);
+
+// Switch Statement
+let job = 'teacher';
+
+switch(job){
+  case 'teacher':
+    console.log(firstName + ' teaches children history.');
+    break;
+  case 'driver':
+    console.log(firstName + ' drives for uber.');
+    break;
+  case 'designer':
+    console.log(firstName + ' designs websites.');
+    break;
+  default:
+    console.log(firstName + ' is something else.');
+    break;
+}
