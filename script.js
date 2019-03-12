@@ -126,6 +126,7 @@ console.log(x);
 /***********************
 * If / Else statements *
 ***********************/
+/*
 let firstName = 'John';
 let civilStatus = 'single';
 
@@ -134,3 +135,8 @@ if(civilStatus === 'married'){
 } else{
     console.log(firstName + ' will hopefully marry soon');
 }
+*/
+/****************
+* Boolean Logic *
+****************/
+let firstName = "John";
