@@ -139,6 +139,7 @@ if(civilStatus === 'married'){
 /****************
 * Boolean Logic *
 ****************/
+/*
 let firstName = "John";
 let age = 16 ;
  
@@ -151,3 +152,7 @@ if (age < 13){
 } else{
   console.log(firstName + ' is a man.');
 }
+*/
+/*****************************
+* Ternary Operator / Switch *
+*****************************/
