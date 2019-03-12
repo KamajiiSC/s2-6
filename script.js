@@ -157,4 +157,7 @@ if (age < 13){
 * Ternary Operator / Switch *
 *****************************/
 let firstName = "John"
-let age = 18
+let age = 21
+
+age >= 21 ? console.log(firstName + ' drinks beer.')
+: console.log(firstName + ' drinks juice.');
