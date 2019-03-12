@@ -171,6 +171,7 @@ let job = 'teacher';
 
 switch(job){
   case 'teacher':
+  case 'instructor':
     console.log(firstName + ' teaches children history.');
     break;
   case 'driver':
