@@ -156,3 +156,5 @@ if (age < 13){
 /*****************************
 * Ternary Operator / Switch *
 *****************************/
+let firstName = "John"
+let age = 18
